@@ -11,4 +11,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcoslazaro-engineer&show_icons=true&locale=en&layout=compact" alt="marcoslazaro-engineer" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcoslazaro-engineer&show_icons=true&locale=en" alt="marcoslazaro-engineer" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcoslazaro-engineer&show_icons=true&locale=en&cache_seconds=1800
+" alt="marcoslazaro-engineer" /></p>
